@@ -1,0 +1,36 @@
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\appsettings.json
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\CoderHouse CSharp API.exe
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\CoderHouse CSharp API.deps.json
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\CoderHouse CSharp API.runtimeconfig.json
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\CoderHouse CSharp API.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\CoderHouse CSharp API.pdb
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\CoderHouse CSharp API.csproj.AssemblyReference.cache
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\CoderHouse CSharp API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\CoderHouse CSharp API.AssemblyInfoInputs.cache
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\CoderHouse CSharp API.AssemblyInfo.cs
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\CoderHouse CSharp API.csproj.CoreCompileInputs.cache
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\CoderHouse CSharp API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\CoderHouse CSharp API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\scopedcss\bundle\CoderHouse CSharp API.styles.css
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\CoderHouse CSharp API.csproj.CopyComplete
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\CoderHouse CSharp API.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\refint\CoderHouse CSharp API.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\CoderHouse CSharp API.pdb
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\CoderHouse CSharp API.genruntimeconfig.cache
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\obj\Debug\net6.0\ref\CoderHouse CSharp API.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adan_\OneDrive\Escritorio\PreEntregaC#CoderHouse\CoderHouse CSharp API\CoderHouse CSharp API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
